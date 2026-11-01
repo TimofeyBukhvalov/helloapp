@@ -4,3 +4,6 @@ def print_hello():
 def print_hellowblack():
     print('hello everyone')
 
+def greetBlack():
+    print('hello black')
+
