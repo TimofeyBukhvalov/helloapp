@@ -3,7 +3,8 @@ def print_hello():
 
 def print_hellowblack():
     print('hello everyone')
-
+    printhello()
+    print_hellowblack()
 def greetBlack():
     print('hello black')
 
